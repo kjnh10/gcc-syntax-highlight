@@ -6,9 +6,9 @@ hi def link cCpp11Lambda Function
 syn keyword cCppHelperFunction __gcd __lg
 
 "macro highlight
-syn keyword cMyLoop rep perm
+syn keyword cMyLoop rep rrep each foreach
 syn keyword cMyTypedefs lint ldouble vint vlint vdouble vldouble vstring ulint
-syn keyword cMyFunc all chmax chmin uniquenize
+syn keyword cMyFunc all chmax chmin uniquenize sz pb mp ten uni
 
 hi def link cMyLoop Keyword
 hi def link cMyTypedefs cType
