@@ -7,7 +7,7 @@ syn keyword cCppHelperFunction __gcd __lg
 
 "macro highlight
 syn keyword cMyLoop rep r_rep each foreach
-syn keyword cMyTypedefs vi vvi pi ppi PQ iii mint
+syn keyword cMyTypedefs vi vvi pi ppi PQ iii mint ll ld pii
 syn keyword cMyFunc all chmax chmin sz pb mp ten uni dump dump_1d dump_2d
 
 hi def link cMyLoop Keyword
